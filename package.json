@@ -1,0 +1,28 @@
+{
+  "name": "simple-add2numbers",
+  "version": "1.0.0",
+  "description": "simple npm package publish testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravn27/simple-add2Numbers.git"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "package",
+    "test"
+  ],
+  "author": "Praveen S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravn27/simple-add2Numbers/issues"
+  },
+  "homepage": "https://github.com/pravn27/simple-add2Numbers#readme",
+  "dependencies": {
+    "simple-add2numbers": "^1.0.0"
+  }
+}
